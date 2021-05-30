@@ -125,6 +125,9 @@ models:
           - type: number
             name: recent_posts_number
             label: recent_posts_number
+          - type: string
+            name: header_class
+            label: header_class
   home:
     type: page
     label: Home
